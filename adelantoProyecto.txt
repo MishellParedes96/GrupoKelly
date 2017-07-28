@@ -1,0 +1,10 @@
+% Estos hechos indican dónde se encuentran los distintos objetos del
+% juego están localizados. %
+en(ruby, araña).
+en(clave, entrada_cueva).
+en(linterna, edificio).
+en(espada, armario).
+
+
+% Este hecho especifica que la araña está viva.%
+vivo(araña).
